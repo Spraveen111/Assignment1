@@ -42,3 +42,15 @@ body {
   justify-content: center;
   align-items: center;
 }
+.Login-icon{
+  diplay:flex;
+  justify-content:center;
+  align-items:center;
+  padding-right:10px;
+}
+.cart-icon{
+  diplay:flex;
+  justify-content:center;
+  align-items:center;
+  padding-right:10px;
+}
