@@ -1,25 +1,25 @@
 .slideHome {
-  height: 500px;
-  width: 100vw;
-}
-.homeMainContainer {
-  background-color: #e7e7e7;
-  width: 100vw;
-  margin-top: 175rem;
-}
-.productsName {
-  padding-bottom: 20px;
-
-  text-align: center;
-}
-.productNameContainer {
-  background-color: white;
-  margin-top: 40px;
-}
-.ulProducts {
-  list-style-type: none;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
+    height: 500px;
+    width: 100vw;
+  }
+  .homeMainContainer {
+    background-color: #e7e7e7;
+    width: 100vw;
+    
+  }
+  .productsName {
+    padding-bottom: 20px;
+  
+    text-align: center;
+  }
+  .productNameContainer {
+    background-color: white;
+    margin-top: 40px;
+  }
+  .ulProducts {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
