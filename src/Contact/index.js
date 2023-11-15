@@ -1,10 +1,10 @@
-import Header from "../Header";
+
 import "./index.css";
 
 function Contact() {
   return (
     <div className="mainContainerContact">
-      <Header />
+     
       <hr className="br" />
       <div className="icons">
         <div className="one">
