@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 
 import ProductCard from "../ProductCard";
 import SlideShow from "../SlideShow";
+
 import Header from "../Header";
 // import Contact from '../Contact'
 
@@ -34,9 +35,10 @@ function Home() {
 
   return (
     <div className="homeMainContainer">
-      <Header />
-      {/* <SlideShow/> */}
+      
+      <SlideShow/>
       <div className="productNameContainer">
+      {/* <Header /> */}
         <h1 className="productsName">Products</h1>
       </div>
 
