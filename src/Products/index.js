@@ -1,7 +1,7 @@
 import "./index.css";
 
 import axios from "axios";
-import Header from "../Header";
+// import Header from "../Header";
 import { useEffect, useState } from "react";
 
 import ProductCard from "../ProductCard";
@@ -31,7 +31,7 @@ function Products() {
 
   return (
     <div className="homeMainContainer">
-      <Header />
+      {/* <Header /> */}
 
       <div className="productNameContainer">
         <h1 className="productsName">Products</h1>
